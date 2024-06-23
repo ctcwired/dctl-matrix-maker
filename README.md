@@ -8,9 +8,9 @@ YouTube demo [here](https://youtu.be/inLKBxAnlzU)
 # Install & Use
 
 - Install Python
-- pip install --user colour-science
-- pip install --user colour-checker-detection
-- python -c "import imageio;imageio.plugins.freeimage.download()"
+- `pip install --user colour-science`
+- `pip install --user colour-checker-detection`
+- `python -c "import imageio;imageio.plugins.freeimage.download()"`
 - Then run this script with arguments, for example:
 ```
 dctl-matrix-maker.py source.exr target.exr [result.dctl]

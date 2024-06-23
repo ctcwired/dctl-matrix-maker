@@ -13,5 +13,5 @@ YouTube demo [here](https://youtu.be/inLKBxAnlzU)
 - python -c "import imageio;imageio.plugins.freeimage.download()"
 - Then run this script with arguments, for example:
 ```
-dctl-matrix-maker.py source.exr target.exr result.dctl
+dctl-matrix-maker.py source.exr target.exr [result.dctl]
 ```

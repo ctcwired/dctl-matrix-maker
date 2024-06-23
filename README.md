@@ -5,7 +5,7 @@ Inspired by [this forum post](https://www.liftgammagain.com/forum/index.php?thre
 
 YouTube demo [here](https://youtu.be/inLKBxAnlzU)
 
-# Installation
+# Install & Use
 
 - Install Python
 - pip install --user colour-science

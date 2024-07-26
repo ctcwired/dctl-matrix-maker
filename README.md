@@ -19,4 +19,4 @@ python dctl-matrix-maker.py source.exr target.exr [result.dctl]
 
 # Demo Image
 
-![3x3 Matching Demo Image](demo.jpg)
+![3x3 Matching Demo Image](demo2.jpg)
